@@ -1,0 +1,11 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "JavaScript TDD Sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "@peyssoa",
+  "license": "ISC"
+}
