@@ -4,8 +4,14 @@
   "description": "JavaScript TDD Sandbox",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "author": "@peyssoa",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.28.0",
+    "eslint-config-wcl-frontend": "^2.0.2",
+    "jest": "^27.0.4",
+    "prettier": "^2.3.1"
+  }
 }
